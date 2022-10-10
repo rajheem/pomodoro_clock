@@ -188,7 +188,7 @@ const percentage=60
                         // pathTransition: 'none',
 
                         // Colors
-                        pathColor: `rgba(62, 152, 199, ${timeleftg / 100})`,
+                        pathColor: `rgba(62, 152, 199, ${timeleft / 100})`,
                         textColor: '#f88',
                         trailColor: '#d6d6d6',
                         backgroundColor: '#3e98c7',
